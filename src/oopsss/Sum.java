@@ -12,6 +12,7 @@ public class Sum {
 		Sum obj = new Sum();
 		//obj.sum(12,34);
 		System.out.println(obj.sum(12,34));
+		System.out.println("This is the added after the cloning");
 	}
 
 }
